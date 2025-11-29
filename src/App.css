@@ -1,0 +1,36 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.app {
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+    color: #333;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.app h1 {
+    margin-bottom: 20px;
+}
+
+.app p {
+    margin-bottom: 20px;
+}
+
+.app:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.color-box {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    border-radius: 15px;
+    border: 2px solid #ccc;
+}
